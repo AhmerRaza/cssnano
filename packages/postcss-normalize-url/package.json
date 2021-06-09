@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "is-absolute-url": "^2.0.0",
-    "normalize-url": "^1.0.0",
+    "normalize-url": "^4.5.1",
     "postcss": "^6.0.0",
     "postcss-value-parser": "^3.0.0"
   },
